@@ -1,8 +1,8 @@
-# C-Throttle: Per-App Download Speed Limiter for Windows
+# C-Throttle: Per-App Download Speed Control for Windows
 
-**C-Throttle** is a free, open-source Windows utility designed to set a **per app download speed limit**. It instantly detects every application and process using the internet on your PC, allowing you to throttle network bandwidth for individual programs with a single click.
+**C-Throttle** is a free, open-source bandwidth-limiter for Windows designed to give you complete **per app download speed control**. It instantly detects every application and process using the internet on your PC, allowing you to throttle network bandwidth for individual programs with a single click.
 
-If you are looking for a lightweight, free alternative to NetLimiter to control your bandwidth, stop background game updates from causing high ping, or prevent a specific program from hogging your internet, C-Throttle is the perfect solution.
+If you are looking for a lightweight, free bandwidth-limiter for Windows to control your network, stop background game updates from causing high ping, or prevent a specific program from hogging your internet, C-Throttle is the perfect solution.
 
 ## Top Use Cases
 - **Fix High Ping:** Stop Steam, Epic Games, or Windows Updates from lagging your multiplayer matches by setting a strict background download speed limit.
