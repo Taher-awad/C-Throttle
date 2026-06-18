@@ -1,0 +1,16 @@
+# Compiled Object files
+*.obj
+
+# Executables
+*.exe
+
+# Debug / Visual Studio
+*.pdb
+*.ilk
+.vs/
+
+# Generated Test Logs
+speedtest_*.txt
+
+# Ignore the large WinDivert zip archive
+*.zip
