@@ -1,6 +1,6 @@
 @echo off
 echo [=============================]
-echo [ Building Throttle... ]
+echo [ Building Throttle.exe ]
 echo [=============================]
 
 :: Attempt to locate vcvars64.bat in common VS 2019/2022 paths
